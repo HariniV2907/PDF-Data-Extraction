@@ -1,0 +1,228 @@
+OPNAV M-5100.23
+5 Jun 2020
+
+SECTION B.  SAFETY PROGRAMS
+
+CHAPTER 1
+ORGANIZATION AND COORDINATION
+
+Ref: (a) DoD Instruction 6055.01, DoD Safety and Occupational Health Program, 14 Oct
+2014
+(b) SECNAVINST 5100.10K Department of the Navy Safety Program, 12 May 2015
+
+B0101.  Discussion
+
+a. The Safety and Occupational Health (SOH) program gained special prominence after
+passage of the Occupational Safety and Health (OSH) Act on 31 December 1970.  Although the
+primary thrust of the OSH Act was directed at the private sector employer, section 19 of the OSH
+Act directed federal agencies to establish and maintain comprehensive and effective OSH
+programs consistent with the standards issued under Section 6 of the OSH Act.
+
+b. On 26 July 1971, the President signed Executive Order (E.O.) 11612, entitled
+Occupational Safety and Health Programs for Federal Employees.  This E.O. stated the U.S.
+Government, as the nation's largest employer, has a special obligation to set an example for safe
+and healthful employment.  It directed the head of each federal department and agency to
+establish an SOH program in compliance with section 19 of the OSH Act.  Over the next 3 years,
+many federal agencies made only moderate progress.  Consequently, Congress received
+considerable criticism for a perceived double standard in SOH requirements between the private
+sector and federal agencies.  As a result, the President issued E.O. 11807 in 1974, which replaced
+E.O. 11612 and more clearly defined the scope, requirements, and responsibilities of federal
+agency programs.  In addition, E.O. 11807 tasked the Secretary of Labor to issue guidelines
+designed to assist federal agencies in establishing their programs.  The Secretary issued these
+guidelines on 9 October 1974 as part 1960 of title 29, Code of Federal Regulations (CFR), Safety
+and Health Provisions for Federal Employees.
+
+c. These actions described still did not satisfy some critics since several federal agencies
+questioned the regulatory authority of the Secretary of the Labor guidelines (29 CFR 1960).
+Addressing this issue, on 26 February 1980, the President signed E.O. 12196, Occupational
+Safety and Health Programs for Federal Employees, superseding E.O. 11807.  The Secretary of
+Labor revised DOL guidelines (29 CFR 1960) on 21 October 1980 and reissued them as Basic
+Program Elements for Federal Employee Occupational Safety and Health Programs.
+
+B0102.  Scope
+
+a. SOH is a core value in all Navy operations and commands, units and activities.  The
+primary mission is to prevent mishaps, save lives, and preserve combat readiness.  This safety
+program manual provides Navy commanders, commanding officers, and officers in charge;
+
+B1-1OPNAV M-5100.23
+5 Jun 2020
+
+military and civilian supervisors; safety managers; safety and occupational health professionals;
+industrial hygienists; occupational medical professionals; collateral duty safety officers;
+operators; design agents and life-cycle managers; installation managers; and Navy military and
+civilian employees with comprehensive and effective policy guidance, tools, and training to
+support operational readiness and sustainability, in compliance with safety laws, regulations, and
+Executive Orders (E.O.), across the Navy Enterprise.
+
+b. This manual implements requirement of the Occupational Safety and health Act of 1970
+as implemented in Executive order 12196; Title 29 Code of Federal Regulation 1960; and
+Department of Defense Instructions 6055.01, 6055.04, and 6055.07.  It directs commands, units,
+and activities, regardless of warfare community, to comply with the program elements in this
+manual as well as any additional guidance from other applicable policy.  It provides clarifying
+guidance for uniquely military equipment, systems, and operations or other special conditions
+and provides new policy on Navy safety management procedures with special emphasis on
+responsibilities and organizational concepts.  All subsequent Navy safety program related
+instructions, manuals, guidance, and directives derived from this manual must be aligned with
+the direction set forth herein.
+
+c. This manual implements references (a) and (b) and provides policy, procedures, and
+guidance for the SOH program for the Navy.
+
+B0103. Related Chapters.  Each chapter in this manual covers a specific safety program or
+element.  Some safety programs, as well as elements, are related or overlap.  In addition, the
+chapters purposefully do not cover all SOH standards (i.e., laws, rules, regulations, instructions,
+etc.).  They are written to provide Navy specific guidance and ensure consistency throughout the
+Navy enterprise.
+
+B0104. Standards
+
+a. The Navy must also comply with SOH standards issued for the private sector by the
+Secretary of Labor, under section 6 of the Occupational Safety and Health Act (OSH Act),
+including emergency temporary standards.  The Office of the Chief of Naval Operations (CNO)
+and the CNO Special Assistant for Safety Matters (CNO N09F) are the only authorities to
+approve U.S. Navy deviations, waivers, or alternate SOH standards resulting from the
+application of reference (a) (e.g., military unique operations).  This approval must be in writing,
+and may be in the form of an Office of the Chief of Naval Operations instruction (OPNAVINST)
+or manual (OPNAV M), or letter signed out by CNO N09F.
+
+(1) This manual adopts all applicable U.S. Occupational Safety and Health
+Administration (OSHA) laws and regulations including emergency temporary standards OSHA
+issues under the provision of the OSH Act, as well as national consensus standards that have
+been “incorporated by reference.”  The OSHA laws and regulations, any emergency temporary
+standards still in effect, and any national consensus standards incorporated by reference, are
+
+B1-2OPNAV M-5100.23
+5 Jun 2020
+
+collectively referred to, both in this directive and industry, as “OSHA standards.”  It is not
+possible to list every reference that may be applicable as Navy operations and commands, units
+and activities vary greatly and invoke a variety of standards including, but not limited to, general
+industry, maritime, and construction.  Throughout the manual, the key references applicable to
+each chapter at the top of the chapter.
+
+Note:  Most of the national consensus standards that OSHA incorporated by reference, were
+done so in the early formative years of that administration.  Once a national consensus
+standard is incorporated by reference into either a law or regulation, it is no longer referred to
+as a national consensus standard.  National consensus standards (i.e., also known as “industry
+standards”) are voluntary, typically copyright protected, and periodically updated by their
+respective standards organizations (e.g., American National Standards Institute, American
+Society of Safety Professionals, etc.).
+
+(2) The use of OSHA standards may simply refer to a specific OSHA standard (e.g., 29
+CFR 1910.95), or may paraphrase, transpose, or otherwise adopt the standard without altering
+the basic criteria (unless the alteration applies to more stringent criteria, such as lower exposure
+limits, increased monitoring frequency, etc.).  In all cases, the Navy must comply with the latest
+edition of an OSHA standard or a national consensus standard.
+
+b. Occupational Exposure Limits for Chemical Contaminants.  The Navy will use the listed
+hierarchy of occupational exposure limits (OELs) for chemicals:
+
+(1) OSHA Permissible Exposure Limits (PELs).
+
+(2) Navy developed or adopted OEL’s.  When both the Navy and OSHA have standards
+applicable to a given situation, commands, activities, and units will use the more stringent of the
+two.
+
+(3) American Conference of Governmental Industrial Hygienists (ACGIH) Threshold
+Limit Values (TLVs) where OSHA PELs or Navy OELs do not exist. Use of TLVs represent
+best practices, i.e., risk management goals to achieve using risk management practices. When the
+OSHA PEL is less stringent, the ACGIH TLVs will be included in reports of data to supplement
+the OSHA PEL and provide additional context to aid the risk management process.  However,
+the OSHA PEL remains the legally binding standard.
+
+(4) Nationally recognized industrial hygiene best practices may be used as to supplement
+the OEL hierarchy.  The Industrial Hygienist will use professional judgement to recommend
+appropriate OEL guidelines, when appropriate, to aid the risk management process in a given
+situation. Sources include but are not limited to:
+
+(i) California OSHA (Cal/OSHA) PELS.
+
+B1-3OPNAV M-5100.23
+5 Jun 2020
+
+(ii) National Institute for Occupational Safety and Health (NIOSH) recommended
+exposure limits (RELs) or risk management limits for carcinogens (RMLs-CA).
+
+(iii) Occupational Alliance for Risk Science (OARS) Workplace Environmental
+Exposure Levels (WHEELs).
+
+c. Alternate OSHA standards that the Deputy Under Secretary of Defense (Environmental
+Security) (DUSD(ES)) authorizes, subject to Secretary of the Navy (SECNAV) approval.
+
+d. Special DoD or Navy standards, rules, and regulations, or technical publications that
+govern the on-the-job safety and health applicable to military unique equipment, systems, and
+operations.
+
+e. Other than those specified in paragraph B0104(b) when there is no DoD, DON, or OSHA
+standard available, the Navy hereby adopts nationally recognized sources of SOH guidance (i.e.,
+ACGIH, the American National Standards Institute (ANSI), the National Fire Protection
+Association (NFPA), and National Institute for Occupational Safety and Health (NIOSH)).  If
+there are conflicts, CNO N09F can clarify.
+
+f. Certain operations are subject to mandatory safety standards or rules derived from
+separate or specific statutory authority (e.g., explosive safety standards issued under the authority
+of section 172 (1970) of title 10, U.S.C., and Nuclear Safety and Health Standards issued under
+the authority of sections 2012, 2021, 2121(b), and 2201(b) (1976) of title 42, U.S.C.).  Provided
+there is no substantive conflict, the application of these special functional standards does not
+exempt any workplace from other SOH standards that address conditions not specifically
+covered by the special rules.  For example, a naval weapons station is subject to special
+explosive safety standards and is also subject to SOH standards for machine guarding, eye
+protection, etc.
+
+g. In overseas workplaces, where a status of forces agreement specifies different standards,
+those standards take precedence, subject to the same limiting rationale set forth in Chapter 1,
+paragraph B0104b of this Manual.
+
+h. Where personnel of different DoD components or of DoD components and other federal
+agencies work in the same installations, host-agency standards must govern the DoD components
+and other federal agencies involved.  When other agency standards conflict with OSHA
+standards, DoD components should refer the matter to Assistant Secretary of Defense (Energy,
+Installations & Environment) for adjudication.
+
+B0105.  Alternate Standard/Deviation/Waiver Process.  Although OSHA standards and OEL’s
+apply to all Navy workplaces, worldwide, without regard to warfare community, there are times
+when complete or partial compliance with the established standards is not possible due to the
+uniquely military equipment, systems and operations or other special condition.  In these
+
+B1-4OPNAV M-5100.23
+5 Jun 2020
+
+situations, CNO N09F can grant written approval for deviations or waivers, as well as coordinate
+with applicable stakeholders for SOH alternate standards.  In each of these cases, the safety risk
+management and safety assurance procedures instituted must be detailed.  In addition, the
+package must show how the proposed change for the deviation or waiver will be at least equally
+protective as the original standard.  Packages must be prepared by the affected command, unit, or
+activity and routed up their respective chains of command.  The request will be submitted up the
+administrative chain of command(s) to CNO N09F/ COMNAVSAFECEN.
+
+B0106.  Process for Requesting Interpretations.  The following process will be used to request
+official interpretation of OPNAV safety policy.  Official requests for interpretation and all
+responses must be in writing.
+
+a. The requester must:
+
+(1) Specifically identify the requirement for interpretation;
+
+(2) Provide the exact citation and quote the requirement in question. A separate request
+must be made for each requirement;
+
+(3) State source of confusion regarding the requirement;
+
+(4) Provide all the information necessary to understand the context in which the
+requirement is being applied;
+
+(5) Provide interpretation of the requirement and rationale.
+
+b. The request will be submitted up the administrative chain of command(s) to CNO N09F.
+
+c. Interpretations apply only to the specific time and the context in which the requirement is
+being applied. They may not be used as precedents to determine future applications of the
+requirement. CNO N09F will make the proper notifications if an interpretation may be applied
+globally.
+
+d. Unofficial requests for interpretations/clarifications of requirements from local SOHs
+may be made via email or telephone.  However, the answers provided via this mode will be
+considered general guidance, not official interpretations.
+
+B1-5
